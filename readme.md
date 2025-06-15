@@ -18,7 +18,7 @@ Desarrollador en formación con experiencia práctica en diversas tecnologías d
 
 **Bases de datos y almacenamiento:**  
 - PostgreSQL, MySQL, SQL Server  
-- Supabase (auth, DB, storage), Google Firebase (auth, Firestore, hosting, storage)  
+- Supabase (auth, DB, storage), Google Firebase ( Firestore, hosting, storage)  
 
 **Cloud & DevOps:**  
 - AWS (EC2, Lambda, S3, VPC, IAM, RDS)  
@@ -30,10 +30,11 @@ Desarrollador en formación con experiencia práctica en diversas tecnologías d
 ## 💼 Proyectos destacados
 
 - 🔗 **[Ruta Accesible](https://github.com/cortesantonio/ruta-accesible)**  
-  Aplicación que ayuda a personas con movilidad reducida a encontrar rutas accesibles en su ciudad.
+  Aplicación que ayuda a personas con movilidad reducida a encontrar lugares accesibles en Curicó (Ciudad).
 
-- 🔗 **[QualityScout](https://github.com/cortesantonio/qualityscout)**  
-  Herramienta para inspección y auditoría de calidad en procesos industriales, enfocada en usabilidad y eficiencia.
+- 🔗 **[QualityScout](https://github.com/cortesantonio/QualityScout-Mobile)**  
+ Herramienta para inspección y auditoría de calidad en procesos vitivinícolas. Está enfocada en agilizar los procesos mediante el reconocimiento de errores y la generación automática de informes con inteligencia artificial.
+Cuenta con versión web y móvil.
 
 ## 🌐 Portafolio
 
@@ -43,8 +44,8 @@ Visita mi portafolio personal para más información y proyectos:
 ## 📫 Contacto
 
 ¿Quieres colaborar o tienes una oportunidad para mí? ¡Estoy disponible!  
-📧 **antonio.cortes.dev@gmail.com** *(o reemplaza con tu correo si prefieres)*  
-📍 Basado en [agrega tu ciudad o país, opcional]  
+📧 **cortesotelo@gmail.com** 
+
 
 ---
 
