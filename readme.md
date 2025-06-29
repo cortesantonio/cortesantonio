@@ -5,7 +5,7 @@ Desarrollador en formación con experiencia práctica en diversas tecnologías d
 ## 🚀 Sobre mí
 
 🎯 Apasionado por la tecnología, la resolución de problemas y el aprendizaje constante.  
-🔎 En búsqueda activa de oportunidades como **Desarrollador Web**, **Mobile** o **Full Stack**.  
+🔎 En búsqueda activa de oportunidades como **Desarrollador Web**, **Frontend** o **Full Stack**.  
 🌱 Reforzando conocimientos en arquitectura de software, buenas prácticas y herramientas modernas.  
 💡 Me interesa trabajar en proyectos con impacto social, innovación y accesibilidad.
 
@@ -13,8 +13,8 @@ Desarrollador en formación con experiencia práctica en diversas tecnologías d
 
 **Lenguajes & Frameworks:**  
 - TypeScript, JavaScript, C#, Python (básico)  
-- .NET MVC, React, React Native  
-- CSS, HTML  
+- .NET MVC, React, React Native
+- CSS, HTML, SASS, Tailwind CSS
 
 **Bases de datos y almacenamiento:**  
 - PostgreSQL, MySQL, SQL Server  
