@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy cortesantonio
+# 👋 ¡Hola! Soy Antonio Cortés
 
 Desarrollador en formación con experiencia práctica en diversas tecnologías del ecosistema web, móvil y cloud. Actualmente estoy explorando tanto el desarrollo **Frontend** como el **Backend**, con una fuerte inclinación hacia el desarrollo de soluciones completas que combinan lógica, diseño y escalabilidad.
 
