@@ -1,53 +1,37 @@
-# 👋 ¡Hola! Soy Antonio Cortés
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
+===============================================================================================================================
 
-Desarrollador en formación con experiencia práctica en diversas tecnologías del ecosistema web, móvil y cloud. Actualmente estoy explorando tanto el desarrollo **Frontend** como el **Backend**, con una fuerte inclinación hacia el desarrollo de soluciones completas que combinan lógica, diseño y escalabilidad.
+Desarrollador Frontend
+----------------------
 
-## 🚀 Sobre mí
+Desarrollador en formación con experiencia práctica en diversas tecnologías del ecosistema web, móvil y cloud. Actualmente estoy explorando tanto el desarrollo Frontend como el Backend, con una fuerte inclinación hacia el desarrollo de soluciones completas que combinan lógica, diseño y escalabilidad.
 
-🎯 Apasionado por la tecnología, la resolución de problemas y el aprendizaje constante.  
-🔎 En búsqueda activa de oportunidades como **Desarrollador Web**, **Frontend** o **Full Stack**.  
-🌱 Reforzando conocimientos en arquitectura de software, buenas prácticas y herramientas modernas.  
-💡 Me interesa trabajar en proyectos con impacto social, innovación y accesibilidad.
-
-## 🛠️ Tecnologías y herramientas
-
-**Lenguajes & Frameworks:**  
-- TypeScript, JavaScript, C#, Python (básico)  
-- .NET MVC, React, React Native
-- CSS, HTML, SASS, Tailwind CSS
-
-**Bases de datos y almacenamiento:**  
-- PostgreSQL, MySQL, SQL Server  
-- Supabase (auth, DB, storage), Google Firebase ( Firestore, hosting, storage)  
-
-**Cloud & DevOps:**  
-- AWS (EC2, Lambda, S3, VPC, IAM, RDS)  
-- Git & GitHub, CI/CD básico  
-
-**Otros:**  
-- Arquitectura REST, control de versiones, principios SOLID, testing básico
-
-## 💼 Proyectos destacados
-
-- 🔗 **[Ruta Accesible](https://github.com/cortesantonio/ruta-accesible)**  
-  Aplicación que ayuda a personas con movilidad reducida a encontrar lugares accesibles en Curicó (Ciudad).
-
-- 🔗 **[QualityScout](https://github.com/cortesantonio/QualityScout-Mobile)**  
- Herramienta para inspección y auditoría de calidad en procesos vitivinícolas. Está enfocada en agilizar los procesos mediante el reconocimiento de errores y la generación automática de informes con inteligencia artificial.
-Cuenta con versión web y móvil.
-
-## 🌐 Portafolio
-
-Visita mi portafolio personal para más información y proyectos:  
-➡️ **[[cortesantonio.site](https://cortesantonio.site/)]**
-
-## 📫 Contacto
-
-¿Quieres colaborar o tienes una oportunidad para mí? ¡Estoy disponible!  
-📧 **cortesotelo@gmail.com** 
-
-
----
-
-Gracias por visitar mi perfil 🙌  
-
+*   🌍  I'm based in Chile
+*   🖥️  See my portfolio at [cortesantonio.site](http://cortesantonio.site/)
+*   ✉️  You can contact me at [cortesotelo@gmail.com](mailto:cortesotelo@gmail.com)
+*   🚀  I'm currently working on [EstudiAi](http://github.com/cortesantonio/estudIAi)
+*   🧠  I'm learning React (Redux, React Router, etc), TypeScript
+*   🤝  I'm open to collaborating on Frontend developer### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask"/></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/cortesantonio" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/antoniocortessotelo/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/cortesantonio"><img src="https://github-readme-stats.vercel.app/api?username=cortesantonio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cortesantonio's GitHub stats" /></a>
